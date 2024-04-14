@@ -1,0 +1,29 @@
+name: flutter_amazon_prime_movie
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  carousel_slider: ^4.2.1
+  cupertino_icons: ^1.0.2
+ 
+  flutter:
+    sdk: flutter
+  flutter_native_splash: ^2.3.7
+  get: ^4.6.5
+  iconsax: ^0.0.8
+  smooth_page_indicator: ^1.1.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/logo/
