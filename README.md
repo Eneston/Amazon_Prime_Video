@@ -1,6 +1,5 @@
 # flutter_amazon_prime_movie
 
-A new Flutter project.
 
 ## Getting Started
 
