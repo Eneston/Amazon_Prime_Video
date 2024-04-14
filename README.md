@@ -10,6 +10,7 @@ ScreenShots
 ![Screenshot_2](https://github.com/Eneston/Amazon_Prime_Video/assets/100870703/ce15e1a4-dd9f-4274-885c-c9af84d354a6)
 
 ![Screenshot_4](https://github.com/Eneston/Amazon_Prime_Video/assets/100870703/b3342d30-8645-4a87-afb4-c6e98bf5e78d)
+
 ![Screenshot_3](https://github.com/Eneston/Amazon_Prime_Video/assets/100870703/7b25afbc-70db-4528-b1e9-9dfefc446362)
 
 ![Screenshot_2](https://github.com/Eneston/Amazon_Prime_Video/assets/100870703/6a80c137-7d7d-46b4-b99d-fac465f14d47)
