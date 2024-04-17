@@ -12,7 +12,7 @@ ScreenShots
  
 ![Screenshot_2](https://github.com/Eneston/Amazon_Prime_Video/assets/100870703/ce15e1a4-dd9f-4274-885c-c9af84d354a6)
 
- AnaMenü Screen
+ Arama Screen
  
 ![Screenshot_4](https://github.com/Eneston/Amazon_Prime_Video/assets/100870703/b3342d30-8645-4a87-afb4-c6e98bf5e78d)
 
