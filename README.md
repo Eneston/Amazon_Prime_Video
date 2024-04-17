@@ -16,11 +16,11 @@ ScreenShots
  
 ![Screenshot_4](https://github.com/Eneston/Amazon_Prime_Video/assets/100870703/b3342d30-8645-4a87-afb4-c6e98bf5e78d)
 
- Arama Ekranı
+ İndirilenler Ekranı
 
 ![Screenshot_3](https://github.com/Eneston/Amazon_Prime_Video/assets/100870703/7b25afbc-70db-4528-b1e9-9dfefc446362)
 
- Arama Ekranı
+ Profil Ekranı
 
 ![Screenshot_2](https://github.com/Eneston/Amazon_Prime_Video/assets/100870703/6a80c137-7d7d-46b4-b99d-fac465f14d47)
 
